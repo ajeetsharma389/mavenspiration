@@ -26,9 +26,9 @@
                     </goals>
                     <configuration>
                         <publisher>
-                            <contextUrl>http://localhost:8081/artifactory</contextUrl>
+                            <contextUrl>http://localhost:8081/repository/respository-example/</contextUrl>
                             <username>admin</username>
-                            <password>85Clover</password>
+                            <password>admin</password>
                             <repoKey>libs-release-local</repoKey>
                             <snapshotRepoKey>libs-snapshot-local</snapshotRepoKey>
                         </publisher>
