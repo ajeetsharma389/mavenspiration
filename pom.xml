@@ -16,9 +16,9 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>org.apache.codehaus.plexus</groupId>
-      <artifactId>plexus-utils</artifactId>
-      <version>1.0.4</version>
+      <groupId>com.mycompany.app</groupId>
+      <artifactId>my-app</artifactId>
+      <version>1.0-SNAPSHOT</version>
     </dependency>
   </dependencies>
  
