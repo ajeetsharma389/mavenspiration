@@ -35,23 +35,15 @@
                     </configuration>
                 </execution>
             </executions>
-            
-          
-          
-          
           <distributionManagement>
-    <snapshotRepository>
-      <id>nexus-snapshots</id>
-      <url>http://localhost:8081/repository/respository-example/</url>
-    </snapshotRepository>
-  </distributionManagement>
-        </plugin>
+            <snapshotRepository>
+              <id>nexus-snapshots</id>
+              <url>http://localhost:8081/repository/respository-example/</url>
+            </snapshotRepository>
+          </distributionManagement>
+      </plugin>
     </plugins>
-  
-
-       
-
-</build>
+  </build>
   
   
 </project>
